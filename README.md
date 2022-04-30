@@ -4,3 +4,7 @@
 
 [![](https://github.com/M4A28/Certificate_Maker/blob/main/Resulting_Image/examble3%40examble.com.png)](https://github.com/M4A28/Certificate_Maker/blob/main/Resulting_Image/examble3%40examble.com.png)
 
+##### ملاحظة بسيطة 
+ملف coordente يستخدم فقط لتحديد ابعاد القالب الجديد في حالة تغييره 
+
+
